@@ -1,5 +1,5 @@
 cron:
 - description: daily nav update job
   url: /tasks/update
-  schedule: every day 00:00
+  schedule: every day 05:00
   timezone: Asia/Kolkata
